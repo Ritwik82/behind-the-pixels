@@ -98,4 +98,3 @@ If you are familiar with tools used in password auditing, you are on the right t
 ## 🏁 Flag Format
 
 LNM{...}
->>>>>>> b63abaa99971a32a8fcd299398b3080c9049ae2a
