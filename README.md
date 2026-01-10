@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🖼️ Behind the Pixels
 
 This file looks like an ordinary image.
@@ -55,6 +54,7 @@ Guessing blindly will not help.
 
 Good luck —  
 and remember, not everything you see is all that exists.
+
 =======
 # 🖼️ Behind the Pixels
 
