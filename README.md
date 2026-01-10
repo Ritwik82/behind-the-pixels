@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖼️ Behind the Pixels
 
 This file looks like an ordinary image.
@@ -54,3 +55,47 @@ Guessing blindly will not help.
 
 Good luck —  
 and remember, not everything you see is all that exists.
+=======
+# 🖼️ Behind the Pixels
+
+Not everything is what it seems.
+
+This file appears to be an ordinary image — but experienced eyes know better.
+Something is hidden, and it does not want to be found easily.
+
+---
+
+## 🎯 Objective
+
+Analyze the provided image and uncover the hidden secret.
+
+Your goal is to retrieve the **flag**.
+
+---
+
+## 🔐 What to Expect
+
+- The image contains **additional hidden data**
+- That data is **protected**
+- A **password** stands between you and the flag
+- Manual guessing will not help
+
+---
+
+## 🛠️ Tools & Skills
+
+This challenge is designed to test your ability to:
+
+- Inspect files beyond their extensions
+- Work with embedded archives
+- Perform **offline password cracking**
+- Use industry-standard security tooling
+
+If you are familiar with tools used in password auditing, you are on the right track.
+
+---
+
+## 🏁 Flag Format
+
+LNM{...}
+>>>>>>> b63abaa99971a32a8fcd299398b3080c9049ae2a
