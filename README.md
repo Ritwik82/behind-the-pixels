@@ -1,14 +1,56 @@
-# Behind the Pixels
+# 🖼️ Behind the Pixels
 
 This file looks like an ordinary image.
 
 But appearances can be deceiving.
 
-Can you uncover what’s hidden behind the pixels?
+Something else lies beneath the surface — unseen by the naked eye,  
+yet recoverable by those who know how to look beyond file extensions.
 
-## Rules
-- Flag format: LNM{...}
-- No brute-force online services
-- Solve locally
+---
 
-Good luck.
+## 🎯 Objective
+
+Your goal is to uncover the hidden secret inside the image and retrieve the flag.
+
+This challenge rewards careful inspection, proper tooling,  
+and familiarity with real-world password auditing techniques.
+
+---
+
+## 🛠️ What You May Need
+
+- File inspection skills  
+- Archive analysis  
+- Offline password cracking  
+- Wordlists and auditing tools  
+
+Guessing blindly will not help.
+
+---
+
+## 🧠 Hint
+
+> The protection used here is common,  
+> and the key to it is not unique — many have used it before.
+
+---
+
+## 📁 Files Provided
+
+- `challenge.jpg`
+- `rockyou.txt`
+
+---
+
+## 📜 Rules
+
+- Flag format: `LNM{...}`
+- No brute-force **online** services
+- Solve locally using appropriate tools
+- Intended solution requires proper methodology, not luck
+
+---
+
+Good luck —  
+and remember, not everything you see is all that exists.
