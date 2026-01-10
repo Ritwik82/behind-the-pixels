@@ -92,9 +92,3 @@ This challenge is designed to test your ability to:
 - Use industry-standard security tooling
 
 If you are familiar with tools used in password auditing, you are on the right track.
-
----
-
-## 🏁 Flag Format
-
-LNM{...}
